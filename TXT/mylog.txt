@@ -3,7 +3,7 @@
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 20 L01 SCELE related
-ZCZC W00 30 L03 Github related
-ZCZC W00 30 L04 Github Pages related
+ZCZC W00 40 L03 Github related
 ZCZC W00 100 L02 Attended class on Monday
 ZCZC W00 100 L02 Attended class on Wednesday
+ZCZC W00 30 L05 QUIZ related
