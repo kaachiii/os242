@@ -8,3 +8,10 @@ ZCZC W00 100 L02 Attended class on Monday
 ZCZC W00 100 L02 Attended class on Wednesday
 ZCZC W00 30 L05 QUIZ related
 ZCZC W00 25 L06 Reading References/PPT
+ZCZC W01 100 L02 Attended class on Monday
+ZCZC W01 100 L02 Attended class on Wednesday
+ZCZC W01 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 240 L11 Assignment #01
+ZCZC W01 30 L05 Studying for Quiz
+ZCZC W01 20 L01 SCELE related
+ZCZC W01 30 L03 Github related
