@@ -9,6 +9,6 @@ This site contains links to lecture materials, exam questions, and laboratory ma
 
 ---
 
-**REV: Wed 06 Sep 2024 20:00**
+**REV: Fri 06 Sep 2024 20:00**
 
 
