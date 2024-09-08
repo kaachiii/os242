@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 
-# os242
+# [os242](https://kaachiii.github.io/os242/)
 
 ### Week 01
 
