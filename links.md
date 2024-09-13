@@ -14,8 +14,15 @@ permalink: LINKS/
 
 - *[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)* - This site contains basic syntax outlined in the original Markdown design document.
 
+### Week 02
+
+- *[Cyber Security Video](https://youtu.be/U_P23SqJaDc)* - This YouTube video contains cyber security full course for beginner.
+
+- *[C Basic Syntax](https://www.geeksforgeeks.org/c-basic-syntax/)* - This site contains the basic syntax of C.
+
+
 ---
 
-*REV: Sun 08 Sep 2024 10:38*
+*REV: Sat 14 Sep 2024 00:55*
 
 
