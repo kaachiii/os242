@@ -20,10 +20,12 @@ permalink: LINKS/
 
 - *[How To Configure SSH Key-Based Authentication on a Linux Server](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)* - This site contains how do SSH keys work, creating SSH keys, copying an SSH public key to server, authenticating to server using SSH keys, and disabling password authentication on server.
 
+- *[Bash Scripting Tutorial](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)* - This site contains linux shell script and command line for beginners.
+
 - *[C Basic Syntax](https://www.geeksforgeeks.org/c-basic-syntax/)* - This site contains the basic syntax of C.
 
 ---
 
-*REV: Sat 14 Sep 2024 18:02*
+*REV: Sat 14 Sep 2024 18:43*
 
 
