@@ -18,11 +18,12 @@ permalink: LINKS/
 
 - *[Cyber Security Video](https://youtu.be/U_P23SqJaDc)* - This YouTube video contains cyber security full course for beginner.
 
-- *[C Basic Syntax](https://www.geeksforgeeks.org/c-basic-syntax/)* - This site contains the basic syntax of C.
+- *[How To Configure SSH Key-Based Authentication on a Linux Server](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)* - This site contains how do SSH keys work, creating SSH keys, copying an SSH public key to server, authenticating to server using SSH keys, and disabling password authentication on server.
 
+- *[C Basic Syntax](https://www.geeksforgeeks.org/c-basic-syntax/)* - This site contains the basic syntax of C.
 
 ---
 
-*REV: Sat 14 Sep 2024 00:55*
+*REV: Sat 14 Sep 2024 18:02*
 
 
