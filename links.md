@@ -24,6 +24,12 @@ permalink: LINKS/
 
 - *[C Basic Syntax](https://www.geeksforgeeks.org/c-basic-syntax/)* - This site contains the basic syntax of C.
 
+### Week 03
+
+- *[Newline in C](https://www.geeksforgeeks.org/newline-in-c/)* - This site contains how the newline escape sequence is used to insert the newline in the string literal.
+
+- *[Compiling a C Program](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/)* - This site contains a behind-the-scenes compilation of a C program.
+
 ---
 
 *REV: Sat 14 Sep 2024 18:43*

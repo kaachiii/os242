@@ -26,4 +26,9 @@ ZCZC W02 240 L09 Finish Assignment Week 02
 ZCZC W02 60 L06 Browsing OS related
 ZCZC W03 100 L02 Attended class on Wednesday
 ZCZC W03 40 L03 Github related
+ZCZC W03 30 L01 SCELE related
+ZCZC W03 40 L06 Reading References
+ZCZC W03 60 L06 Browsing OS related
+ZCZC W03 260 L09 Finish Assignment Week 03
+ZCZC W03 100 L02 Attended class on Monday
 
