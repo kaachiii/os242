@@ -30,8 +30,9 @@ permalink: LINKS/
 
 - *[Compiling a C Program](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/)* - This site contains a behind-the-scenes compilation of a C program.
 
+- *[Mount a File System on Linux](https://www.linode.com/docs/guides/mount-file-system-on-linux/)* - This site contains how to mount a file system on linux. 
+
 ---
 
-*REV: Sat 14 Sep 2024 18:43*
-
+*REV: Tue 24 Sep 2024 11:54*
 
