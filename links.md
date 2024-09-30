@@ -32,7 +32,15 @@ permalink: LINKS/
 
 - *[Mount a File System on Linux](https://www.linode.com/docs/guides/mount-file-system-on-linux/)* - This site contains how to mount a file system on Linux. 
 
+### Week 04
+
+- *[Addressing, Shared Lib, & Pointer](https://youtu.be/uFj7mKNq1t0)* - This video contains material about addressing, shared lib, & pointer.
+
+- *[What is a Makefile and how does it work?](https://opensource.com/article/18/8/what-how-makefile)* - This site contains explanation about Makefile and how does it work.
+
+- *[How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/)* - This site contains how to compress the whole directory using xz and tar in Linux.
+
 ---
 
-*REV: Tue 24 Sep 2024 11:54*
+*REV: Mon 30 Sep 2024 16:32*
 
