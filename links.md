@@ -42,7 +42,11 @@ permalink: LINKS/
 
 ### Week 05
 
-- what?
+- *[How to Export Import Virtual Machine in VirtualBox](https://youtu.be/3ef4uVfFaAg)* - This video contains how to export import virtual machine in VirtualBox.
+
+- *[Kernel Panic: Definition and Causes](https://medium.com/@redswitches/kernel-panic-definition-and-causes-9237ab9d2170)* - This site contains the definition and causes of kernel panic.
+
+- *[Making and Encrypting a Tarball](https://osp4diss.vlsm.org/osp-001.html)* - This site contains how to making and encrypting a tarball.
 
 ---
 
