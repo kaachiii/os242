@@ -41,7 +41,8 @@ permalink: LINKS/
 - *[How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/)* - This site contains how to compress the whole directory using xz and tar in Linux.
 
 ### Week 05
-                                                                                                  *[How to Export Import Virtual Machine in VirtualBox](https://youtu.be/3ef4uVfFaAg)* This video contains how to export import virtual machine in VirtualBox.
+
+- what?
 
 ---
 
