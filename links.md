@@ -40,7 +40,16 @@ permalink: LINKS/
 
 - *[How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/)* - This site contains how to compress the whole directory using xz and tar in Linux.
 
+### Week 05
+                                                                                                  - *[How to Clone Virtual Machine in VirtualBox 7.0](https://youtu.be/PdraQlPBMWA?si=eemGjqtqN1rAx-_S)* - This video contains how to clone virtual machine in VirtualBox 7.0.
+
+- *[How to Export Import Virtual Machine in VirtualBox](https://youtu.be/3ef4uVfFaAg)* - This video contains how to export import virtual machine in VirtualBox.
+
+- *[Kernel Panic: Definition and Causes](https://medium.com/@redswitches/kernel-panic-definition-and-causes-9237ab9d2170)* - This site contains the definition and causes of kernel panic.
+
+- *[Making and Encrypting a Tarball](https://osp4diss.vlsm.org/osp-001.html)* - This site contains how to making and encrypting a tarball.
+
 ---
 
-*REV: Mon 30 Sep 2024 16:32*
+*REV: Sun 06 Oct 2024 15:18*
 
