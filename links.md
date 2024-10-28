@@ -48,7 +48,15 @@ permalink: LINKS/
 
 - *[Making and Encrypting a Tarball](https://osp4diss.vlsm.org/osp-001.html)* - This site contains how to making and encrypting a tarball.
 
+### Week 06
+
+- *[Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)* - This site contains the definition of dynamic memory allocation in C using malloc(), calloc(), free() and realloc().
+
+- *[malloc vs mmap in C](https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c)* - This site explains the differences between malloc and mmap in C.
+
+- *[How to install Docusaurus on Linux](https://github.com/cbkadal/242saurus/)* - This site explains how to install Docusaurus on Linux.
+
 ---
 
-*REV: Sun 06 Oct 2024 15:18*
+*REV: Tue 29 Oct 2024 02:32*
 
