@@ -53,4 +53,11 @@ ZCZC W06 40 L03 Github related
 ZCZC W06 60 L06 Reading References
 ZCZC W06 60 L06 Browsing OS related
 ZCZC W06 200 L09 Finish Assignment Week 06
+ZCZC W07 100 L02 Attended class on Wednesday
+ZCZC W07 40 L05 Quiz related
+ZCZC W07 150 L01 SCELE related
+ZCZC W07 40 L03 Github related
+ZCZC W07 60 L06 Reading References
+ZCZC W07 60 L06 Browsing OS related
+ZCZC W07 200 L09 Finish Assignment Week 07
 

@@ -56,7 +56,13 @@ permalink: LINKS/
 
 - *[How to install Docusaurus on Linux](https://github.com/cbkadal/242saurus/)* - This site explains how to install Docusaurus on Linux.
 
+### Week 07
+
+- *[Slides Synchronization & Deadlock](https://docos.vlsm.org/Slides/os07.pdf)* - Here is a link to the slides on Synchronization & Deadlock by C. BinKadal.
+                                                                                                  - *[Process Synchronization and Deadlocks](https://www.parthshandilya.com/process-synchronization-and-deadlocks/)* - This site explains process synchronization and deadlocks.
+                                                                                                  - *[Why Should I Use tar.xz Instead of tar.gz?](https://unix.stackexchange.com/questions/301587/why-should-i-use-tar-xz-instead-of-tar-gz-xz-is-a-lossless-data-compression-pro)* - This site explains why we should use tar.xz instead of tar.gz.
+
 ---
 
-*REV: Tue 29 Oct 2024 02:32*
+*REV: Fri 01 Nov 2024 22:35*
 
