@@ -70,7 +70,9 @@ permalink: LINKS/
 
 - *[Kernotex’s YouTube LFS 12.2 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)* - Here is the YouTube playlist on how to build Linux From Scratch 12.2.
 
+- *[A Discussion About Linux From Scratch](https://www.reddit.com/r/linux/comments/4gt9gn/is_building_linux_from_scratch_worth_for_a_newbie/)* - Here is an interesting discussion about Linux From Scratch.
+
 ---
 
-*REV: Thu 07 Nov 2024 15:26*
+*REV: Thu 07 Nov 2024 15:47*
 
