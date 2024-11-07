@@ -64,7 +64,13 @@ permalink: LINKS/
 
 - *[Why Should I Use tar.xz Instead of tar.gz?](https://unix.stackexchange.com/questions/301587/why-should-i-use-tar-xz-instead-of-tar-gz-xz-is-a-lossless-data-compression-pro)* - This site explains why we should use tar.xz instead of tar.gz.
 
+### Week 08
+
+- *[Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/index.html)* - Here is the Linux From Scratch version 12.2 Book VirtualBox (AMD64).
+
+- *[Kernotex’s YouTube LFS 12.2 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)* - Here is the YouTube playlist on how to build Linux From Scratch 12.2.
+
 ---
 
-*REV: Fri 01 Nov 2024 22:35*
+*REV: Thu 07 Nov 2024 15:26*
 
